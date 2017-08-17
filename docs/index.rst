@@ -32,6 +32,7 @@ Layers:
 
 Examples(Link to github):
 
+* `Addition with RNNs <https://github.com/tiny-dnn/tiny-dnn/tree/master/examples/recurrent_addition>`_
 * `MNIST image classification <https://github.com/tiny-dnn/tiny-dnn/tree/master/examples/mnist>`_
 * `Cifar-10 image classification <https://github.com/tiny-dnn/tiny-dnn/tree/master/examples/cifar10>`_
 * `Deconvolutional Auto-encoder <https://github.com/tiny-dnn/tiny-dnn/tree/master/examples/deconv>`_
